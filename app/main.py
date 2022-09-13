@@ -2,9 +2,6 @@ import sys
 import os
 sys.path.append("/code/app/")
 
-pedro = 'gato'
-
-
 # 1. Library imports
 from typing import Dict
 import uvicorn
